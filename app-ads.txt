@@ -7,8 +7,8 @@ google.com, pub-7889808665030485, DIRECT, f08c47fec0942fa0
 applovin.com, c6acd43e48c3fa1880962b108db95afa, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 bidease.com, bidease_seller_26, RESELLER
-contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
-gamaigroup.com, 423056, RESELLER
+contextweb.com ,562615,RESELLER,89ff185a4c4e857c
+gamaigroup.com,423056,RESELLER
 improvedigital.com, 2602, RESELLER
 indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
